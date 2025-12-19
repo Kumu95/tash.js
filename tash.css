@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 50px 10px;
+}
+.tash-img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 17px;
+}
+.btn{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 16px;
+}
+
+.btn:hover{
+    background-color: #239e29;
+}
