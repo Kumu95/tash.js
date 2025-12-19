@@ -6,11 +6,12 @@ body{
 .tash-img {
     width: 200px;
     height: auto;
-    margin-bottom: 20px;
+    margin-bottom: -22px;
     border-radius: 17px;
 }
 .btn{
-    background-color: #4CAF50;
+    
+    background-image: linear-gradient(#2b14af, #5c2ef1);
     color: white;
     padding: 10px 20px;
     border: none;
@@ -21,5 +22,5 @@ body{
 }
 
 .btn:hover{
-    background-color: #239e29;
+    background-image: linear-gradient(hsl(229, 73%, 48%), #265dc4);
 }
